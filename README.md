@@ -11,6 +11,7 @@
 
 Realizado Lista Exercicos qual Fui Dedicado em aprender e a Desenvolver da melhor forma; https://wiki.python.org.br/ListaDeExercicios
 
+
 ![Captura de tela 2023-10-13 153520](https://github.com/1985Valdemar/EstruturaDeDecisaoPython/assets/114195427/a9a0c2d1-eb65-4897-a37d-389595c6538a)
 <p> Trecho Mostrar Codigo</p>
 
